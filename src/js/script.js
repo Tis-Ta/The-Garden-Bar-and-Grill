@@ -798,7 +798,7 @@ function createImageTags() {
       a.dataset.type = "image";
 
       const img = document.createElement("img");
-      img.dataset.src = `/assets/images/book-start/${i}-s.webp`;
+      img.dataset.src = `/assets/images/book-start/${i}-s-xs.webp`;
       img.width = 400;
       img.height = 300;
       img.alt = `Image ${i}`;
@@ -826,7 +826,7 @@ function createImageTags() {
       a.dataset.type = "image";
 
       const img = document.createElement("img");
-      img.dataset.src = `/assets/images/book-2016/${i}-s.webp`;
+      img.dataset.src = `/assets/images/book-2016/${i}-s-xs.webp`;
       img.width = 400;
       img.height = 300;
       img.alt = `Image ${i}`;
@@ -852,7 +852,7 @@ function createImageTags() {
       a.dataset.type = "image";
 
       const img = document.createElement("img");
-      img.dataset.src = `/assets/images/beer-fest/${i}-s.webp`;
+      img.dataset.src = `/assets/images/beer-fest/${i}-s-xs.webp`;
       img.width = 400;
       img.height = 300;
       img.alt = `Image ${i}`;
